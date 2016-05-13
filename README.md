@@ -49,10 +49,6 @@ like:
     termcapinfo xterm 'Co#256:AB=\E[48;5;%dm:AF=\E[38;5;%dm'
     defbce "on"
 
-Kudos to jart for our lovely hiptext shenanigans.
-Please see our sister project: [hiptext](https://github.com/jart/hiptext), which
-generates ANSI color codes for any image or video.
-
 <3,
 
 [Bithive Team](http://bithive.io) ([@bithiveio](http://twitter.com/bithiveio))
