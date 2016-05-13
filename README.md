@@ -1,20 +1,17 @@
 # rickrollrc
 
 Bash script which [rickrolls](http://en.wikipedia.org/wiki/Rickrolling) your
-terminal by playing Rick Astley’s “Never Gonna Give You Up” with ANSI 256-color
+terminal by playing Antonio Rios “Nunca Me Faltes” with ANSI 256-color
 coded UTF-8 characters + audio (if available).
 
 ## How to Roll
 To start rickrollin’ immediately:
 
-    curl -s -L https://raw.githubusercontent.com/keroserene/rickrollrc/master/roll.sh | bash
+    curl -s -L https://raw.githubusercontent.com/bithive-io/rickrollrc/master/roll.sh | bash
 
 Here is the clandestine command you can give to your friends 😈
 
-    curl -s -L http://bit.ly/10hA8iC | bash
-
-![rickroll in xterm](http://i.imgur.com/ZAsQWtP.png)
-![rickroll in mac](http://i.imgur.com/yDLaZna.png)
+    curl -s -L http://bit.ly/1TBXOHD | bash
 
 For the record: It is not actually a good idea to make a habit of
 
@@ -26,7 +23,7 @@ Nevertheless, for the enhanced experience, I highly recommend the following:
 
 Which essentially just does:
 
-    echo "curl -s -L http://bit.ly/10hA8iC | bash" >> ~/.bashrc
+    echo "curl -s -L http://bit.ly/1TBXOHD | bash" >> ~/.bashrc
 
 For a salutary lesson in the importance of taking care what you
 execute in your terminal, inspired by the classic
@@ -58,4 +55,4 @@ generates ANSI color codes for any image or video.
 
 <3,
 
-~serene ([@kiserene](http://twitter.com/kiserene))
+[Bithive Team](http://bithive.io) ([@bithiveio](http://twitter.com/bithiveio))
